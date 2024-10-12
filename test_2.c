@@ -10,4 +10,5 @@ int main() {
   printf("print the fist commit in feature 3 branch!\n");
   printf("print the second commit in feature 3 branch!\n");
   printf("print the fist commit in feature 4 branch!\n");
+  printf("print the second commit in feature 4 branch!\n");
 }
